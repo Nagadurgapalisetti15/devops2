@@ -1,3 +1,0 @@
-Name:Naga Durga Palisetti
-Course:BSC Computer Science
-Github:github is a cloud based platform that facilitates software development and version control
